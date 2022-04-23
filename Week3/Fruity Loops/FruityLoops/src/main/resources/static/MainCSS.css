@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+.container {
+	margin: 40px;
+	padding: 40px;
+	font-family: sans-serif;
+	background-color: pink;
+}
+
+h1 {
+	color: pink;
+	margin: 5px;
+}
+.table {
+	background-color: white;
+}
